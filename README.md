@@ -1,4 +1,3 @@
-hiberfil.sys Dosyasını sil ve Hızlı başlatma aç (önerilen) ayarını otomatik kapat 
-Türkçe ve İngilizce 
+hiberfil.sys Dosyasını sil ve Hızlı başlatma aç (önerilen) ayarını otomatik kapat, Türkçe ve İngilizce destekli
 
-Düzgün bir test gerçekleştiremedim Chatgpt ile oluşturdum kodlama vb işler hakkında bilgim yok, sorun varsa belirtirseniz düzeltmeye çalışırım.
+Sanal makine üzerinden deneme yaptım o yüzden düzgün bir test gerçekleştiremedim, Chatgpt ile oluşturdum kodlama vb işler hakkında bilgim yok, sorun varsa belirtirseniz düzeltmeye çalışırım.
